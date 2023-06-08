@@ -1,0 +1,1 @@
+gcc IEEE754.c -o IEEE754; ./IEEE754; rm IEEE754
